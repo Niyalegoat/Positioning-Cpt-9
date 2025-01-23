@@ -1,0 +1,51 @@
+/* hyberlink rules */
+a {
+    color: #000000;
+}
+a:link {
+    color: #000000;
+}
+a:visited {
+    color: #000000;
+}
+a:hover {
+    color: #000000;
+}
+a:active {
+    color: #000000;
+}
+p {
+    padding-bottom: 5px;
+}
+h2 {
+    color: #000000;
+    font-size: 1.2em;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #889a9c;
+}
+/* Containers */
+#main_content {
+    float: right;
+    width: 65%;
+    margin-top: 25px;
+    margin-right: 25px;
+}
+#sidebar{
+   color: #889A9C;
+   font-size: small;
+   font-variant: small-caps;
+   line-height: 1.2;
+   padding-right: 10px;
+   border-right-style: solid;
+   border-right-width: 1px;
+   border-right-color: #889AC;
+   border-width: 200px;
+   float: left;
+   margin-top: 25px;
+   margin-left: 25px;
+}
+#footer {
+   clear: both;
+   margin: 0px;
+}
